@@ -5,7 +5,7 @@ Program w C rysujący diament ze znaków
 
 ## Jak uruchomić?
 1. Sklonuj repozytorium: `git clone https://github.com/cloudbix/DiamondPattern.git`
-2. Skompiluj: `gcc diamond.c -o diamond`
+2. Skompiluj: `gcc Diamond.c -o diamond`
 3. Uruchom: `./diamond`
 4. Podaj szerokość i znak (np. 6 i #).
 
